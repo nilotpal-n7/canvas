@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #111;
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#canvas1 {
+    border: 1px solid white;
+    background-color: #222;
+    margin-top: 20px;
+}
+
+#slider {
+    width: 100%;
+    columns: white;
+}
